@@ -2,3 +2,13 @@
   margin:0px;
   padding:0px;
 }
+h1{
+  color: red;
+  font-family: Sans-serif,"Montserrat";
+}
+ol{
+  background-color: yellow;
+}
+ul{
+  background-color: pink;
+}
