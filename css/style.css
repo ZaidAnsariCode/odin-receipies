@@ -3,3 +3,9 @@ h1{
   color: red;
   font-family: Sans-serif,"Montserrat";
 }
+ol{
+  background-color: pink;
+}
+ul{
+  background-color: yellow;
+}
